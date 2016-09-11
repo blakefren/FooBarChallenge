@@ -1,0 +1,4 @@
+Google searches that led to FooBar invitation:
+
+1. "python strings"
+2. "python arrays"
